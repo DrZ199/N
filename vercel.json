@@ -1,6 +1,5 @@
 {
-  "version": 2,
+  "buildCommand": "$npm_execpath run build",
+  "installCommand": "$npm_execpath install",
   "framework": "nextjs"
 }
-
-
