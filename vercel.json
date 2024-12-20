@@ -1,7 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "npm run build",
-  "devCommand": "npm run dev",
+  "buildCommand": "./node_modules/.bin/next build",
   "installCommand": "npm install --legacy-peer-deps",
   "framework": "nextjs",
   "builds": [
